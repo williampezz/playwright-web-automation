@@ -8,7 +8,8 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.51.1",
-    "@types/node": "^22.13.14"
+    "@types/node": "^22.13.14",
+    "dotenv": "^16.4.7"
   },
   "scripts": {
     "test": "npx playwright test"
