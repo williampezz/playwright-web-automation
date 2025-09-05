@@ -1,4 +1,4 @@
-## POWR QA Automation Test Suite
+## Playwright QA Automation Test Suite
 
 ## 📋 Project Overview
 End-to-end tests for POWR pricing page validation, built with Playwright.
